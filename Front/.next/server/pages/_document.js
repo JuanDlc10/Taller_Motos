@@ -1,0 +1,126 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(() => {
+var exports = {};
+exports.id = "pages/_document";
+exports.ids = ["pages/_document"];
+exports.modules = {
+
+/***/ "./src/layouts/MainLayout.tsx":
+/*!************************************!*\
+  !*** ./src/layouts/MainLayout.tsx ***!
+  \************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   MainLayout: () => (/* binding */ MainLayout)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _pages_components_Footer__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/pages/components/Footer */ \"./src/pages/components/Footer.tsx\");\n/* harmony import */ var _pages_components_Header__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/pages/components/Header */ \"./src/pages/components/Header.tsx\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);\n\n\n\n\nconst MainLayout = ({ children })=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"min-h-screen flex flex-col items-center bg-white pt-20\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_pages_components_Header__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {}, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\layouts\\\\MainLayout.tsx\",\n                lineNumber: 8,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"main\", {\n                className: \"flex-grow w-full flex justify-center items-start px-4\",\n                children: children\n            }, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\layouts\\\\MainLayout.tsx\",\n                lineNumber: 10,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_pages_components_Footer__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {}, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\layouts\\\\MainLayout.tsx\",\n                lineNumber: 14,\n                columnNumber: 7\n            }, undefined)\n        ]\n    }, void 0, true, {\n        fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\layouts\\\\MainLayout.tsx\",\n        lineNumber: 7,\n        columnNumber: 5\n    }, undefined);\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvbGF5b3V0cy9NYWluTGF5b3V0LnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7OztBQUE4QztBQUNBO0FBQ3JCO0FBRWxCLE1BQU1HLGFBQWEsQ0FBQyxFQUFFQyxRQUFRLEVBQWlDO0lBQ3BFLHFCQUNFLDhEQUFDQztRQUFJQyxXQUFVOzswQkFDYiw4REFBQ0wsZ0VBQU1BOzs7OzswQkFFUCw4REFBQ007Z0JBQUtELFdBQVU7MEJBQ2JGOzs7Ozs7MEJBR0gsOERBQUNKLGdFQUFNQTs7Ozs7Ozs7Ozs7QUFHYixFQUFFIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vZnJvbnQvLi9zcmMvbGF5b3V0cy9NYWluTGF5b3V0LnRzeD85MmE0Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBGb290ZXIgZnJvbSAnQC9wYWdlcy9jb21wb25lbnRzL0Zvb3RlcidcbmltcG9ydCBIZWFkZXIgZnJvbSAnQC9wYWdlcy9jb21wb25lbnRzL0hlYWRlcidcbmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCdcblxuZXhwb3J0IGNvbnN0IE1haW5MYXlvdXQgPSAoeyBjaGlsZHJlbiB9OiB7IGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGUgfSkgPT4ge1xuICByZXR1cm4gKFxuICAgIDxkaXYgY2xhc3NOYW1lPVwibWluLWgtc2NyZWVuIGZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIGJnLXdoaXRlIHB0LTIwXCI+XG4gICAgICA8SGVhZGVyIC8+XG5cbiAgICAgIDxtYWluIGNsYXNzTmFtZT1cImZsZXgtZ3JvdyB3LWZ1bGwgZmxleCBqdXN0aWZ5LWNlbnRlciBpdGVtcy1zdGFydCBweC00XCI+XG4gICAgICAgIHtjaGlsZHJlbn1cbiAgICAgIDwvbWFpbj5cblxuICAgICAgPEZvb3RlciAvPlxuICAgIDwvZGl2PlxuICApO1xufTtcblxuIl0sIm5hbWVzIjpbIkZvb3RlciIsIkhlYWRlciIsIlJlYWN0IiwiTWFpbkxheW91dCIsImNoaWxkcmVuIiwiZGl2IiwiY2xhc3NOYW1lIiwibWFpbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/layouts/MainLayout.tsx\n");
+
+/***/ }),
+
+/***/ "./src/pages/_document.tsx":
+/*!*********************************!*\
+  !*** ./src/pages/_document.tsx ***!
+  \*********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Document)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _layouts_MainLayout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/layouts/MainLayout */ \"./src/layouts/MainLayout.tsx\");\n/* harmony import */ var next_document__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/document */ \"./node_modules/next/document.js\");\n/* harmony import */ var next_document__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_document__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\nfunction Document() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(next_document__WEBPACK_IMPORTED_MODULE_2__.Html, {\n        lang: \"en\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(next_document__WEBPACK_IMPORTED_MODULE_2__.Head, {}, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\_document.tsx\",\n                lineNumber: 7,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"body\", {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_layouts_MainLayout__WEBPACK_IMPORTED_MODULE_1__.MainLayout, {\n                    children: [\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(next_document__WEBPACK_IMPORTED_MODULE_2__.Main, {}, void 0, false, {\n                            fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\_document.tsx\",\n                            lineNumber: 10,\n                            columnNumber: 11\n                        }, this),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(next_document__WEBPACK_IMPORTED_MODULE_2__.NextScript, {}, void 0, false, {\n                            fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\_document.tsx\",\n                            lineNumber: 11,\n                            columnNumber: 11\n                        }, this)\n                    ]\n                }, void 0, true, {\n                    fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\_document.tsx\",\n                    lineNumber: 9,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\_document.tsx\",\n                lineNumber: 8,\n                columnNumber: 7\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\_document.tsx\",\n        lineNumber: 6,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvcGFnZXMvX2RvY3VtZW50LnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7O0FBQWlEO0FBQ1c7QUFFN0MsU0FBU0s7SUFDdEIscUJBQ0UsOERBQUNKLCtDQUFJQTtRQUFDSyxNQUFLOzswQkFDVCw4REFBQ0osK0NBQUlBOzs7OzswQkFDTCw4REFBQ0s7MEJBQ0MsNEVBQUNQLDJEQUFVQTs7c0NBQ1QsOERBQUNHLCtDQUFJQTs7Ozs7c0NBQ0wsOERBQUNDLHFEQUFVQTs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUtyQiIsInNvdXJjZXMiOlsid2VicGFjazovL2Zyb250Ly4vc3JjL3BhZ2VzL19kb2N1bWVudC50c3g/MTg4ZSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBNYWluTGF5b3V0IH0gZnJvbSAnQC9sYXlvdXRzL01haW5MYXlvdXQnXG5pbXBvcnQgeyBIdG1sLCBIZWFkLCBNYWluLCBOZXh0U2NyaXB0IH0gZnJvbSAnbmV4dC9kb2N1bWVudCdcblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRG9jdW1lbnQoKSB7XG4gIHJldHVybiAoXG4gICAgPEh0bWwgbGFuZz1cImVuXCI+XG4gICAgICA8SGVhZCAvPlxuICAgICAgPGJvZHk+XG4gICAgICAgIDxNYWluTGF5b3V0PlxuICAgICAgICAgIDxNYWluIC8+XG4gICAgICAgICAgPE5leHRTY3JpcHQgLz5cbiAgICAgICAgPC9NYWluTGF5b3V0PlxuICAgICAgPC9ib2R5PlxuICAgIDwvSHRtbD5cbiAgKVxufVxuIl0sIm5hbWVzIjpbIk1haW5MYXlvdXQiLCJIdG1sIiwiSGVhZCIsIk1haW4iLCJOZXh0U2NyaXB0IiwiRG9jdW1lbnQiLCJsYW5nIiwiYm9keSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/pages/_document.tsx\n");
+
+/***/ }),
+
+/***/ "./src/pages/components/Footer.tsx":
+/*!*****************************************!*\
+  !*** ./src/pages/components/Footer.tsx ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Footer)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/image */ \"./node_modules/next/image.js\");\n/* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_image__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ \"./node_modules/next/link.js\");\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\nfunction Footer() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"flex items-center justify-center px-4 py-0 mt-2\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_link__WEBPACK_IMPORTED_MODULE_2___default()), {\n                href: \"/\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_image__WEBPACK_IMPORTED_MODULE_1___default()), {\n                    src: \"/img/Logo_Moto-modified.png\",\n                    priority: true,\n                    width: 100,\n                    height: 100,\n                    alt: \"logo\"\n                }, void 0, false, {\n                    fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Footer.tsx\",\n                    lineNumber: 8,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Footer.tsx\",\n                lineNumber: 7,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h2\", {\n                className: \"text-lg md:text-xl xl:text-2xl text-center font-extrabold text-black-900 mx-4\",\n                children: \"Taller de Motos Rock Rider\"\n            }, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Footer.tsx\",\n                lineNumber: 16,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_link__WEBPACK_IMPORTED_MODULE_2___default()), {\n                href: \"/\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_image__WEBPACK_IMPORTED_MODULE_1___default()), {\n                    src: \"/img/Logo_Moto-modified.png\",\n                    priority: true,\n                    width: 100,\n                    height: 100,\n                    alt: \"logo\"\n                }, void 0, false, {\n                    fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Footer.tsx\",\n                    lineNumber: 20,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Footer.tsx\",\n                lineNumber: 19,\n                columnNumber: 7\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Footer.tsx\",\n        lineNumber: 6,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvcGFnZXMvY29tcG9uZW50cy9Gb290ZXIudHN4IiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7O0FBQStCO0FBQ0Y7QUFFZCxTQUFTRTtJQUN0QixxQkFDRSw4REFBQ0M7UUFBSUMsV0FBVTs7MEJBQ2IsOERBQUNILGtEQUFJQTtnQkFBQ0ksTUFBSzswQkFDVCw0RUFBQ0wsbURBQUtBO29CQUNKTSxLQUFJO29CQUNKQyxRQUFRO29CQUNSQyxPQUFPO29CQUNQQyxRQUFRO29CQUNSQyxLQUFJOzs7Ozs7Ozs7OzswQkFHUiw4REFBQ0M7Z0JBQUdQLFdBQVU7MEJBQWdGOzs7Ozs7MEJBRzlGLDhEQUFDSCxrREFBSUE7Z0JBQUNJLE1BQUs7MEJBQ1QsNEVBQUNMLG1EQUFLQTtvQkFDSk0sS0FBSTtvQkFDSkMsUUFBUTtvQkFDUkMsT0FBTztvQkFDUEMsUUFBUTtvQkFDUkMsS0FBSTs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFLZCIsInNvdXJjZXMiOlsid2VicGFjazovL2Zyb250Ly4vc3JjL3BhZ2VzL2NvbXBvbmVudHMvRm9vdGVyLnRzeD9iNTlhIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBJbWFnZSBmcm9tIFwibmV4dC9pbWFnZVwiO1xuaW1wb3J0IExpbmsgZnJvbSBcIm5leHQvbGlua1wiO1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBGb290ZXIoKSB7XG4gIHJldHVybiAoXG4gICAgPGRpdiBjbGFzc05hbWU9XCJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBweC00IHB5LTAgbXQtMlwiPlxuICAgICAgPExpbmsgaHJlZj0nLyc+XG4gICAgICAgIDxJbWFnZVxuICAgICAgICAgIHNyYz1cIi9pbWcvTG9nb19Nb3RvLW1vZGlmaWVkLnBuZ1wiXG4gICAgICAgICAgcHJpb3JpdHlcbiAgICAgICAgICB3aWR0aD17MTAwfVxuICAgICAgICAgIGhlaWdodD17MTAwfVxuICAgICAgICAgIGFsdD1cImxvZ29cIlxuICAgICAgICAvPlxuICAgICAgPC9MaW5rPlxuICAgICAgPGgyIGNsYXNzTmFtZT1cInRleHQtbGcgbWQ6dGV4dC14bCB4bDp0ZXh0LTJ4bCB0ZXh0LWNlbnRlciBmb250LWV4dHJhYm9sZCB0ZXh0LWJsYWNrLTkwMCBteC00XCI+XG4gICAgICAgIFRhbGxlciBkZSBNb3RvcyBSb2NrIFJpZGVyXG4gICAgICA8L2gyPlxuICAgICAgPExpbmsgaHJlZj0nLyc+XG4gICAgICAgIDxJbWFnZVxuICAgICAgICAgIHNyYz1cIi9pbWcvTG9nb19Nb3RvLW1vZGlmaWVkLnBuZ1wiXG4gICAgICAgICAgcHJpb3JpdHlcbiAgICAgICAgICB3aWR0aD17MTAwfVxuICAgICAgICAgIGhlaWdodD17MTAwfVxuICAgICAgICAgIGFsdD1cImxvZ29cIlxuICAgICAgICAvPlxuICAgICAgPC9MaW5rPlxuICAgIDwvZGl2PlxuICApO1xufVxuXG4iXSwibmFtZXMiOlsiSW1hZ2UiLCJMaW5rIiwiRm9vdGVyIiwiZGl2IiwiY2xhc3NOYW1lIiwiaHJlZiIsInNyYyIsInByaW9yaXR5Iiwid2lkdGgiLCJoZWlnaHQiLCJhbHQiLCJoMiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./src/pages/components/Footer.tsx\n");
+
+/***/ }),
+
+/***/ "./src/pages/components/Header.tsx":
+/*!*****************************************!*\
+  !*** ./src/pages/components/Header.tsx ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Header)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/image */ \"./node_modules/next/image.js\");\n/* harmony import */ var next_image__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_image__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ \"./node_modules/next/link.js\");\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);\n\n\n\nfunction Header() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"flex items-center justify-center px-4 py-0\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_link__WEBPACK_IMPORTED_MODULE_2___default()), {\n                href: \"/\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_image__WEBPACK_IMPORTED_MODULE_1___default()), {\n                    src: \"/img/Logo_Moto-modified.png\",\n                    priority: true,\n                    width: 100,\n                    height: 100,\n                    alt: \"logo\"\n                }, void 0, false, {\n                    fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Header.tsx\",\n                    lineNumber: 8,\n                    columnNumber: 17\n                }, this)\n            }, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Header.tsx\",\n                lineNumber: 7,\n                columnNumber: 13\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h2\", {\n                className: \"text-lg md:text-xl xl:text-2xl text-center font-extrabold text-black-900 mx-4\",\n                children: \"Taller de Motos Rock Rider\"\n            }, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Header.tsx\",\n                lineNumber: 16,\n                columnNumber: 13\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_link__WEBPACK_IMPORTED_MODULE_2___default()), {\n                href: \"/\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_image__WEBPACK_IMPORTED_MODULE_1___default()), {\n                    src: \"/img/Logo_Moto-modified.png\",\n                    priority: true,\n                    width: 100,\n                    height: 100,\n                    alt: \"logo\"\n                }, void 0, false, {\n                    fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Header.tsx\",\n                    lineNumber: 20,\n                    columnNumber: 17\n                }, this)\n            }, void 0, false, {\n                fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Header.tsx\",\n                lineNumber: 19,\n                columnNumber: 13\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"C:\\\\laragon\\\\www\\\\Proyecto Final\\\\Front\\\\src\\\\pages\\\\components\\\\Header.tsx\",\n        lineNumber: 6,\n        columnNumber: 9\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvcGFnZXMvY29tcG9uZW50cy9IZWFkZXIudHN4IiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7O0FBQStCO0FBQ0Y7QUFFZCxTQUFTRTtJQUNwQixxQkFDSSw4REFBQ0M7UUFBSUMsV0FBVTs7MEJBQ1gsOERBQUNILGtEQUFJQTtnQkFBQ0ksTUFBSzswQkFDUCw0RUFBQ0wsbURBQUtBO29CQUNGTSxLQUFJO29CQUNKQyxRQUFRO29CQUNSQyxPQUFPO29CQUNQQyxRQUFRO29CQUNSQyxLQUFJOzs7Ozs7Ozs7OzswQkFHWiw4REFBQ0M7Z0JBQUdQLFdBQVU7MEJBQWdGOzs7Ozs7MEJBRzlGLDhEQUFDSCxrREFBSUE7Z0JBQUNJLE1BQUs7MEJBQ1AsNEVBQUNMLG1EQUFLQTtvQkFDRk0sS0FBSTtvQkFDSkMsUUFBUTtvQkFDUkMsT0FBTztvQkFDUEMsUUFBUTtvQkFDUkMsS0FBSTs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFLeEIiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9mcm9udC8uL3NyYy9wYWdlcy9jb21wb25lbnRzL0hlYWRlci50c3g/ZWIwNiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgSW1hZ2UgZnJvbSBcIm5leHQvaW1hZ2VcIjtcbmltcG9ydCBMaW5rIGZyb20gXCJuZXh0L2xpbmtcIjtcblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSGVhZGVyKCkge1xuICAgIHJldHVybiAoXG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcHgtNCBweS0wXCI+XG4gICAgICAgICAgICA8TGluayBocmVmPScvJz5cbiAgICAgICAgICAgICAgICA8SW1hZ2VcbiAgICAgICAgICAgICAgICAgICAgc3JjPVwiL2ltZy9Mb2dvX01vdG8tbW9kaWZpZWQucG5nXCJcbiAgICAgICAgICAgICAgICAgICAgcHJpb3JpdHlcbiAgICAgICAgICAgICAgICAgICAgd2lkdGg9ezEwMH1cbiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0PXsxMDB9XG4gICAgICAgICAgICAgICAgICAgIGFsdD1cImxvZ29cIlxuICAgICAgICAgICAgICAgIC8+XG4gICAgICAgICAgICA8L0xpbms+XG4gICAgICAgICAgICA8aDIgY2xhc3NOYW1lPVwidGV4dC1sZyBtZDp0ZXh0LXhsIHhsOnRleHQtMnhsIHRleHQtY2VudGVyIGZvbnQtZXh0cmFib2xkIHRleHQtYmxhY2stOTAwIG14LTRcIj5cbiAgICAgICAgICAgICAgICBUYWxsZXIgZGUgTW90b3MgUm9jayBSaWRlclxuICAgICAgICAgICAgPC9oMj5cbiAgICAgICAgICAgIDxMaW5rIGhyZWY9Jy8nPlxuICAgICAgICAgICAgICAgIDxJbWFnZVxuICAgICAgICAgICAgICAgICAgICBzcmM9XCIvaW1nL0xvZ29fTW90by1tb2RpZmllZC5wbmdcIlxuICAgICAgICAgICAgICAgICAgICBwcmlvcml0eVxuICAgICAgICAgICAgICAgICAgICB3aWR0aD17MTAwfVxuICAgICAgICAgICAgICAgICAgICBoZWlnaHQ9ezEwMH1cbiAgICAgICAgICAgICAgICAgICAgYWx0PVwibG9nb1wiXG4gICAgICAgICAgICAgICAgLz5cbiAgICAgICAgICAgIDwvTGluaz5cbiAgICAgICAgPC9kaXY+XG4gICAgKTtcbn1cblxuIl0sIm5hbWVzIjpbIkltYWdlIiwiTGluayIsIkhlYWRlciIsImRpdiIsImNsYXNzTmFtZSIsImhyZWYiLCJzcmMiLCJwcmlvcml0eSIsIndpZHRoIiwiaGVpZ2h0IiwiYWx0IiwiaDIiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./src/pages/components/Header.tsx\n");
+
+/***/ }),
+
+/***/ "next/dist/compiled/next-server/pages.runtime.dev.js":
+/*!**********************************************************************!*\
+  !*** external "next/dist/compiled/next-server/pages.runtime.dev.js" ***!
+  \**********************************************************************/
+/***/ ((module) => {
+
+module.exports = require("next/dist/compiled/next-server/pages.runtime.dev.js");
+
+/***/ }),
+
+/***/ "react":
+/*!************************!*\
+  !*** external "react" ***!
+  \************************/
+/***/ ((module) => {
+
+module.exports = require("react");
+
+/***/ }),
+
+/***/ "react-dom":
+/*!****************************!*\
+  !*** external "react-dom" ***!
+  \****************************/
+/***/ ((module) => {
+
+module.exports = require("react-dom");
+
+/***/ }),
+
+/***/ "react/jsx-dev-runtime":
+/*!****************************************!*\
+  !*** external "react/jsx-dev-runtime" ***!
+  \****************************************/
+/***/ ((module) => {
+
+module.exports = require("react/jsx-dev-runtime");
+
+/***/ }),
+
+/***/ "path":
+/*!***********************!*\
+  !*** external "path" ***!
+  \***********************/
+/***/ ((module) => {
+
+module.exports = require("path");
+
+/***/ }),
+
+/***/ "util":
+/*!***********************!*\
+  !*** external "util" ***!
+  \***********************/
+/***/ ((module) => {
+
+module.exports = require("util");
+
+/***/ })
+
+};
+;
+
+// load runtime
+var __webpack_require__ = require("../webpack-runtime.js");
+__webpack_require__.C(exports);
+var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
+var __webpack_exports__ = __webpack_require__.X(0, ["vendor-chunks/next","vendor-chunks/@swc"], () => (__webpack_exec__("./src/pages/_document.tsx")));
+module.exports = __webpack_exports__;
+
+})();
